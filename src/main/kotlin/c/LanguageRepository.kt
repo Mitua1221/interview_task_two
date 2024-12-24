@@ -2,6 +2,7 @@ package c_third
 
 
 // In this task, we need to write tests to validate the functionality of the `detectLanguage` method.
+
 // The method determines the language of a given input string by checking its script
 // and matches it to one of the supported languages:
 // - Arabic
@@ -10,6 +11,8 @@ package c_third
 // - Unknown
 
 // We should focus on creating tests for `detectLanguage` method.
+
+// Lets try to avoid any frameworks for testing, we have only Kotlin and corouties in this project. 
 
 // Examples of input strings for local languages:
 // - Arabic: "مرحبا", "السلام عليكم"
