@@ -1,4 +1,4 @@
-package b_second
+package b
 
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers

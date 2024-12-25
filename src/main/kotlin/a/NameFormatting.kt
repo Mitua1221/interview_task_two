@@ -1,4 +1,4 @@
-package a_first
+package a
 
 class NameFormatting () {
 

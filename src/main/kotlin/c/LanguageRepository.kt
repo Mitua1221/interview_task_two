@@ -1,4 +1,4 @@
-package c_third
+package c
 
 
 // In this task, we need to write tests to validate the functionality of the `detectLanguage` method.
