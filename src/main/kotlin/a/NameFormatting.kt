@@ -8,8 +8,9 @@ class NameFormatting () {
 
 // Examples: "Denis Lee" -> "DL", "Mark Zuckerberk" - "MZ", "Yunis Abdulzade" - "YA".
 
-    fun getInititals(nameSurname: String) {
-
+    // return initials
+    fun getInititals(nameSurname: String): String {
+        return ""
     }
 
 }
