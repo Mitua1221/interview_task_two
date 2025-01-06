@@ -7,6 +7,7 @@ class NameFormatting () {
 // We need to make an Initials from this names and surnames.
 
 // Examples: "Denis Lee" -> "DL", "Mark Zuckerberk" - "MZ", "Yunis Abdulzade" - "YA".
+// Remember     
 
     // return initials
     fun getInititals(nameSurname: String): String {
