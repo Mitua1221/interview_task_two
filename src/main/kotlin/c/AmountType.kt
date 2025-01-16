@@ -25,7 +25,7 @@ class CurrencyQuestion {
 class Api {
 
     fun getCurrency(): SET_TYPE {
-        return "133223500.7235235"  // Example value
+        return   // use this example value ( 133223500.7235235 ) with a format that you will choose
     }
 }
 
